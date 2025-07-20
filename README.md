@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Shopping website**
 
-- 🌱 I’m currently learning **Flask, Python**
+- 🌱 I’m currently learning **Django, Python**
 
 - 💬 Ask me about **Python, Frontend**
 
