@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jaimitha</h1>
 <h3 align="center">🎯 Aspiring **Python Developer** | 💻 Passionate about coding, automation, and problem-solving 📍 Looking for an **entry-level Python developer role** to kick-start my career in tech</h3>
 
-- 🔭 I’m currently working on **Shopping website**
+
 
 - 🌱 I’m currently learning **Django, Python**
 
