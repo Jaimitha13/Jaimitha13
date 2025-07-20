@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, Frontend**
 
-- 📫 How to reach me **jaimithalk@gmail.com**
+- 📫 How to reach me **lkjaimitha@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jaimitha-lk2001](https://www.linkedin.com/in/jaimitha-lk2001)
 
